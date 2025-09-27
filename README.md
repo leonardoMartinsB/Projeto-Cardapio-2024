@@ -1,4 +1,4 @@
-# 📘 Projeto Cardápio 2024
+# 📘 Projeto Cardápio
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/Licença-CC--BY--NC--ND-blue?style=for-the-badge)
