@@ -25,7 +25,8 @@ A estrutura do projeto foi pensada para ser limpa e organizada, facilitando a ma
 
 ### Página principal
 
-![Prévia do Projeto Cardápio 2024](https://github.com/user-attachments/assets/coloque-aqui-o-link-da-imagem)
+<img width="1425" height="742" alt="image" src="https://github.com/user-attachments/assets/a8a40e04-27cc-4c16-bdb3-ce006d41fd5a" />
+
 
 🔗 **Acesse o projeto online:**
 👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/Projeto-Cardapio-2024/)
@@ -38,7 +39,6 @@ A estrutura do projeto foi pensada para ser limpa e organizada, facilitando a ma
 * **CSS3** → Estilização básica
 * **JavaScript (Vanilla)** → Lógica e interatividade da página
 * **Tailwind CSS** → Framework de estilização utilitário e responsivo
-* **Vite** → Ferramenta de build para desenvolvimento ágil
 
 ---
 
